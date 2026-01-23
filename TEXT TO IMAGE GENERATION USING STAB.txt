@@ -1,0 +1,70 @@
+TEXT TO IMAGE GENERATION USING STABLE DIFFUSION
+
+Author: Sakshi Dhole
+Project Type: AI Internship Project
+Date: January 2026
+
+
+
+PROJECT DESCRIPTION
+This project demonstrates the use of a pre-trained generative artificial intelligence model called Stable Diffusion to generate realistic images from natural language text prompts. The system accepts a descriptive text input and produces high-quality images using deep learning techniques. The project is implemented using Python and executed on Google Colab.
+
+
+
+OBJECTIVE
+To understand text-to-image generative models
+To generate images from natural language text prompts
+To explore applications of generative AI
+To implement an end-to-end AI image generation pipeline
+
+
+
+TOOLS AND TECHNOLOGIES USED
+Python
+Google Colab
+Stable Diffusion (Pre-trained Model)
+Hugging Face Diffusers Library
+PyTorch
+Transformers
+Pillow (PIL)
+
+
+
+IMPLEMENTATION STEPS
+Installed required Python libraries such as diffusers, torch, transformers, accelerate, and pillow.
+Imported necessary libraries for model loading and image handling.
+Loaded the pre-trained Stable Diffusion model (runwayml/stable-diffusion-v1-5).
+Enabled GPU acceleration for faster image generation.
+Provided descriptive text prompts as input.
+Generated images using the Stable Diffusion pipeline.
+Displayed generated images in the notebook.
+Saved generated images as PNG files for submission.
+
+
+
+SAMPLE TEXT PROMPT USED
+A futuristic smart city at night with glowing skyscrapers and flying cars
+
+
+
+OUTPUT
+The output of the project consists of high-quality images generated from the given text prompts. The images are saved in PNG format and can be used for further analysis or submission.
+
+
+
+APPLICATIONS
+AI Art and Creative Design
+Game Development and Animation
+Advertising and Marketing
+UI/UX Prototyping
+Education and Research
+
+
+
+RESULTS
+The project successfully generated realistic images from text prompts using a pre-trained Stable Diffusion model. The model performed efficiently with GPU acceleration and produced visually appealing results.
+
+
+
+CONCLUSION
+This project demonstrates the practical use of generative AI models for text-to-image generation. Stable Diffusion effectively converts textual descriptions into realistic images, showing the potential of generative AI in creative and industrial applications.
